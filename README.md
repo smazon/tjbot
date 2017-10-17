@@ -7,4 +7,4 @@ Here are all the links that can help you in your journey with [TJBot](https://ww
 3.[TJBot Simulator](http://my-tjbot.mybluemix.net/)
 4.[TJBot Nodered Nodes](https://github.com/jeancarl/tjbot-node-red-skills)
 5.[TJBot Challenge](https://github.com/jeancarl/tjbot-code-challenge)
-
+6.[IBM Code](https://developer.ibm.com/code/category/tjbot)
