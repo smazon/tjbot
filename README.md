@@ -8,3 +8,4 @@ Here are all the links that can help you in your journey with [TJBot](https://ww
 4.[TJBot Nodered Nodes](https://github.com/jeancarl/tjbot-node-red-skills)
 5.[TJBot Challenge](https://github.com/jeancarl/tjbot-code-challenge)
 6.[IBM Code](https://developer.ibm.com/code/category/tjbot)
+7.[How to fold the cardboard](https://www.youtube.com/watch?v=bLt3Cf2Ui3o)
